@@ -61,7 +61,7 @@ function App() {
                 <Position type="absolute" t="3px" r="3px">
                     <button onClick={toggleTheme}>{isDark ? sun : moon}</button>
                 </Position>
-                <h1>Toados </h1>
+                <h1>Todo</h1>
                 <Todo />
             </AppWrapper>
         </ThemeProvider>
