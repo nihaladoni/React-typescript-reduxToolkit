@@ -40,6 +40,9 @@
 </p>
 </div>
 
+![project-todo](https://raw.githubusercontent.com/nihaladoni/cms/main/typescriptRedux.gif)
+
+
 <!-- ABOUT THE PROJECT -->
 
 
