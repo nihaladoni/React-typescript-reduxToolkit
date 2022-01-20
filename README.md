@@ -31,7 +31,7 @@
   <br />
   <p>
 
-<a href="not-defined">View Demo</a>
+<a href="https://typetodo.netlify.app/">View Demo</a>
 ·
 
 <a href="https://github.com/nihaladoni/typescript-reduxToolkit/issues">Report Bug</a>
